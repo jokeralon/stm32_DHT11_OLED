@@ -36,7 +36,7 @@
 
 ### 运行效果
 
-![串口](https://imgchr.com/i/N8ENF0 "运行")
+![串口](SerialCom/捕获.PNG)
 
 
 ![运行](https://imgchr.com/i/N8ERfK "运行")
