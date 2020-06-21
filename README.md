@@ -2,37 +2,37 @@
 
 ### STM32工程项目
 
-├─Doc
-├─Libraries
-│  ├─CMSIS
-│  │  └─startup
-│  ├─FWlib
-│  │  ├─inc
-│  │  └─src
-│  └─STM32F10x_StdPeriph_Driver
-│      ├─inc
-│      └─src
-├─OUTPUT
-├─Project
-│  ├─Listings
-│  └─Objects
-└─User
-    ├─bsp_dht11
-    ├─bsp_i2c
-    ├─bsp_oled
-    ├─bsp_systick
-    ├─bsp_time
-    └─bsp_usart
+├─Doc<br>
+├─Libraries<br>
+│  ├─CMSIS<br>
+│  │  └─startup<br>
+│  ├─FWlib<br>
+│  │  ├─inc<br>
+│  │  └─src<br>
+│  └─STM32F10x_StdPeriph_Driver<br>
+│      ├─inc<br>
+│      └─src<br>
+├─OUTPUT<br>
+├─Project<br>
+│  ├─Listings<br>
+│  └─Objects<br>
+└─User<br>
+    ├─bsp_dht11<br>
+    ├─bsp_i2c<br>
+    ├─bsp_oled<br>
+    ├─bsp_systick<br>
+    ├─bsp_time<br>
+    └─bsp_usart<br>
 
 ### C# 串口上位机 SerialCom
 
-└─SerialCom
-    ├─bin
-    │  └─Debug
-    ├─obj
-    │  └─Debug
-    │      └─TempPE
-    └─Properties
+└─SerialCom<br>
+    ├─bin<br>
+    │  └─Debug<br>
+    ├─obj<br>
+    │  └─Debug<br>
+    │      └─TempPE<br>
+    └─Properties<br>
 
 ### 运行效果
 
