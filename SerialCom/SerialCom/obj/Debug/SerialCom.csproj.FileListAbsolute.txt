@@ -1,0 +1,10 @@
+C:\Users\alon\Desktop\VisualStudioProject\SerialCom\SerialCom\bin\Debug\SerialCom.exe.config
+C:\Users\alon\Desktop\VisualStudioProject\SerialCom\SerialCom\bin\Debug\SerialCom.exe
+C:\Users\alon\Desktop\VisualStudioProject\SerialCom\SerialCom\bin\Debug\SerialCom.pdb
+C:\Users\alon\Desktop\VisualStudioProject\SerialCom\SerialCom\obj\Debug\SerialCom.csprojAssemblyReference.cache
+C:\Users\alon\Desktop\VisualStudioProject\SerialCom\SerialCom\obj\Debug\SerialCom.Properties.Resources.resources
+C:\Users\alon\Desktop\VisualStudioProject\SerialCom\SerialCom\obj\Debug\SerialCom.csproj.GenerateResource.cache
+C:\Users\alon\Desktop\VisualStudioProject\SerialCom\SerialCom\obj\Debug\SerialCom.csproj.CoreCompileInputs.cache
+C:\Users\alon\Desktop\VisualStudioProject\SerialCom\SerialCom\obj\Debug\SerialCom.exe
+C:\Users\alon\Desktop\VisualStudioProject\SerialCom\SerialCom\obj\Debug\SerialCom.pdb
+C:\Users\alon\Desktop\VisualStudioProject\SerialCom\SerialCom\obj\Debug\SerialCom.串口小程序.resources
